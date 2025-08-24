@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pydantic
+python-multipart  # 用于处理上传文件
